@@ -2,27 +2,31 @@
 
 Welcome to the Elastic documentation site.
 
-**You can access Elastic through the official** [**Website**](https://www.elastic.supply)**.**
+Elastic is a decentralized protocol for the creation of trustless self-collateralizing synthetic asset markets.
+
+**You can access the official Elastic website at** [**https://www.elastic.supply**](https://www.elastic.supply)**.**
 
 ### Resources
 
-**Learn More**: To learn about the Elastic project, start by reading the [Project Overview section](overview/README.md) section and then deep-dive the [Protocol section](protocol/README.md).
+**Learn More**: To learn about the Elastic project, start by reading the [Project Overview](project/overview.md) and then deep-dive the [Protocol](protocol/overview.md) section.
 
-**Guides**: For instructions on how to use Elastic including participating in the Community Launch and Token Distribution, trading ELS and Elastic Assets, providing liquidity and earning rewards through staking, read the [Guides section](guides/README.md).
+**Blog**: For all the latest news and information about Elastic be sure to check out our [Blog](https://www.medium.com).
 
-**Products**: To access details about Elastic products including [Elastic Token (ELS)](protocol/elastic-token-els.md) and [Elastic Assets](protocol/elastic-assets-eassets.md) visit the [products page](https://www.elastic.supply/products) on the [Elastic App](https://www.elastic.supply)
+**Guides**: For instructions on how to use Elastic including participating in the Community Launch of Elastic Token (ELS), trading ELS and Elastic Assets, providing liquidity and earning rewards, read the [Guides](guides/README.md) section.
 
-**Staking pools**: To access details about staking pools including ELS pools, Elastic Asset pools, and Liquidity Provider pools visit the [staking page](https://www.elastic.supply/stake) on the [Elastic App](https://www.elastic.supply/stake)
+**Assets**: To view a list of [Elastic Assets](protocol/elastic-assets/overview.md) visit the [products](https://www.elastic.supply/products) page on the [Elastic App](https://www.elastic.supply)
 
-**GitHub**: To view Elastic's codebase, visit the [Elastic Github page](https://github.com/Elastic-Protocol).
+**Staking pools**: To view a list of staking and reward pools pools including Elastic Token pools, Elastic Asset pools and Liquidity Provider pools,visit the [staking](https://www.elastic.supply/stake) page on the [Elastic App](https://www.elastic.supply/stake)
 
-###Support###
+**GitHub**: To view Elastic's codebase, visit the [Elastic Github](https://github.com/Elastic-Protocol) page.
+
+###Support
 
 **Contact**: You can get technical support from the [Elastic Discord](https://www.discord.com) in the #tech-support channel.
 
-**FAQs**: For explanations and answers to common questions, visit the [FAQs page](faq.md).
+**FAQs**: For explanations and answers to common questions, visit the [FAQs](faq.md) page.
 
-###Community###
+###Community
 
 [**Discord**](https://www.discord.com)
 

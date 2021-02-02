@@ -1,1 +1,0 @@
-# Elastic Assets (eAssets)

@@ -1,1 +1,0 @@
-# Comparison to existing solutions
