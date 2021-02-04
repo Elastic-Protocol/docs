@@ -2,7 +2,7 @@
 
 Welcome to the Elastic documentation site.
 
-Elastic is a decentralized protocol for the creation of trustless self-collateralizing synthetic asset markets.
+Elastic is a decentralized protocol for the creation of self-collateralizing synthetic assets that track the price of real world assets.
 
 **You can access the official Elastic website at** [**https://www.elastic.supply**](https://www.elastic.supply)**.**
 

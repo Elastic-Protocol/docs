@@ -3,18 +3,17 @@
 
 ## What is Elastic?
 
-Elastic is a decentralized protocol for the creation of innovative self-collateralizing synthetic asset markets on the Ethereum blockchain.
+Elastic is a decentralized protocol for the creation of self-collateralizing synthetic assets that track the price of real world assets.
 
-Elastic’s synthetic assets, called Elastic Assets, automatically adjust their supply to collateralize the underlying resources they represent and can be used to form new markets for almost anything.
+Elastic’s synthetic assets, called Elastic Assets, automatically adjust their supply to collateralize the underlying resources they represent.y removing the burden of collateral, Elastic solves the debt fluctuation issue experienced by other synthetic-type assets and eliminates the risk of liquidation entirely which in turn removes the barriers and risks associated with forming new markets.
 
-By removing the burden of collateral, Elastic solves the debt fluctuation issue experienced by other synthetic-type assets and removes the risk of liquidation entirely which in turn removes the barriers and risks associated with creating new markets.
+Elastic Assets enable the creation of 24-hour decentralized synthetic markets for existing financial assets including: commodities, forex, cryptocurrencies, equities, derivatives, as well as novel new assets for things like the cost of a flight from LHR to JFK or earnings of a Hollywood blockbuster.
 
-Elastic is focussed on developing a sustainable community-driven ecosystem completely removed from the existing financial system for everything from Gamestop shares to a bottle of Coke.
-
+Elastic is focussed on developing a sustainable community-driven ecosystem completely removed from the existing financial system.
 
 ## How Elastic works
 
-Elastic has created contract templates which enable the rapid deployment of new Elastic Assets. Elastic’s contract templates are smart contracts that only require the configuration of a price feed (or basket of price feeds) before they can be deployed to create a new Elastic Asset market. Potential applications include anything for which a reliable price feed can be found such as: commodities, currencies, cryptocurrencies, equities, indexes, products, and services.
+Elastic has created a contract factory which enables the rapid deployment of new Elastic Assets. Elastic’s contract factory templates are smart contracts that only require the configuration of a price feed (or basket of price feeds) before they can be deployed to create a new Elastic Asset market.
 
 New Elastic Assets are proposed by the community and must be approved by Elastic Token holders before going live. Every Elastic Asset contract is preprogrammed with a standard set of economic parameters which can be modified through a system of democratic governance before and after deployment.
 
