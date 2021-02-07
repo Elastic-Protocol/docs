@@ -15,19 +15,19 @@ At genesis a total of 2,533,000 ELS (25.33%) will move into circulation with the
 
 At genesis a total of 2,533,000 ELS (100% of the circulating supply) will become available to the public and will be distributed as follows:
 
-#### Pre Sale 
+**Pre Sale**   
 *3.95% - 0.1 million ELS*  
 Tokens will be available for the public to purchase through Elastic’s pre-sale event on [PolkaStarter](https://polkastarter.com/). Funds are assigned for marketing and launch costs. 
 
-#### Public Sale 
+**Public Sale**   
 *39.48% - 1 million ELS*  
 Tokens will be available for the public to purchase through Elastic’s IDO (Initial DEX Offering) on PolkaStarter. 100% of funds raised are used to fund initial liquidity for the Uniswap ELS/ETH pair.
 
-#### Liquidity
+**Liquidity**  
 *32.89% - 0.833 million ELS*  
 Tokens will be reserved for initial liquidity for the Uniswap ELS/ETH pair.
 
-#### LP Reward Pool
+**LP Reward Pool**  
 *23.69% ~ 0.6 million ELS over 3 months*  
 Tokens will be reserved for ELS LP Pool 1 which incentivizes further liquidity in the Uniswap ELS/ETH pool. ELS LP Pool 1 uses a halving schedule, with tokens paid monthly. After 3 months, 87.5% of the pool will be distributed.
 
@@ -43,24 +43,24 @@ The distribution structure at the end of 3 years will look like the below:
 [View vault](https://team.finance)  
 Tokens will be released to current and future team members. Tokens are locked for 6 months and released monthly over a 30 month period.
 
-#### Token Sales
+**Token Sales**  
 *11.00% - 1.1 million ELS*  
 The tokens originally released to the public via private and public sales will now account for 11.00% of the total token supply.
 
-#### LP Reward Pool
+**LP Reward Pool**  
 *6.00% - 0.6 million ELS*  
 Tokens distributed to ELS liquidity providers in ELS LP Pool 1 will now account for 6.00% of the total token supply.
 
-#### Strategic Reserve 
+**Strategic Reserve**  
 *15.00% - 1.5 million over 36 months*  
 [View vault](https://team.finance)  
 Tokens will be released for growing the protocol eg: development, marketing, CEX listings, audits, market stabilization. Tokens are locked for 1 month and released monthly over a 36 month period.
 
-#### Initial Liquidity
+**Initial Liquidity**  
 *8.33% - 0.833 million ELS*  
 Tokens originally provided for initial uniswap liquidity will now account for 8.33% of the total token supply.
 
-#### eAsset Reward Pool
+**eAsset Reward Pool**  
 *50.67% ~ 5.067 million ELS over 36 months*  
 [View vault](https://team.finance)  
 Tokens will be released to the public for incentivizing participation and liquidity in eAsset markets. Tokens are locked for 1 month and released monthly over a 36 month period following a 6 month halving schedule.
@@ -71,19 +71,17 @@ Tokens will be released to the public for incentivizing participation and liquid
 
 ## Reward Pools
 
-### LP Reward Pool(s)
-
-#### ELS LP Pool 1
+### ELS LP Pool 1
 
 #### ELS LP Pool 1 Distribution Schedule
 
+![ELS LP Pool 1 Distribution Schedule](../../images/els_pool1_schedule.png)
+
 ### eAsset Reward Pools
 
-#### eAsset Pools
+#### eAsset Pools Halving Schedule
 
-#### eAsset LP Pools
-
-#### eAsset Reward Pools Cumulative Distribution Schedule
+![ELS eAsset Pools Halving Schedule](../../images/els_eAsset_pool_schedule.png)
 
 
 
